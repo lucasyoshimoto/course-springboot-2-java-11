@@ -11,7 +11,10 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
+<<<<<<< HEAD
 import com.educandoweb.course.entities.enums.OrderStatus;
+=======
+>>>>>>> 832c0b2e6c3db9e2a11e2681e8d88170e14a7eb9
 import com.fasterxml.jackson.annotation.JsonFormat;
 
 @Entity
